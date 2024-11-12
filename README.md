@@ -43,6 +43,8 @@ Ideally your project matches one of the following project tracks. It's totally o
 - 📕 [Prompting Guide](https://www.promptingguide.ai/)
 - ✍️ [Sign up to demo](https://docs.google.com/forms/d/e/1FAIpQLSf3T0RjD6gY-juoei6nED8fJvyQNtFdpTMMlK5j3WdsN4fckg/viewform)
 
+Scan this QR code to see this page in your browser:
+
 ![qr code](qr.gif "This page")
 
 ---
@@ -51,4 +53,4 @@ Want to keep building?
 
 Learn more about [Cloudflare Workers AI](https://ai.cloudflare.com/) and [Toolhouse](https://toolhouse.ai/)!
 
-PS: 🤝 [We're hiring](https://www.cloudflare.com/careers/)
+PS: 🤝 [Cloudflare is hiring](https://www.cloudflare.com/careers/)
