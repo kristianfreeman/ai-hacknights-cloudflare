@@ -18,19 +18,28 @@ We know this is a relatively short time to hack, and your demos don't need to be
 8:30 PM - Demos & presentations to pick winners
 ```
 
+## Project Tracks
+Ideally your project matches one of the following projec tracks.
+It's totally optional, you can just hack on whatever you want:
+- Best Use of Toolhouse.ai platform
+- Best Use of Cloudflare services
+- Most likely to be a business
+
 ## Working Apps to Explore
 
+- 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
 - 🛝 [Retieval Augmented Generation (RAG) example](https://github.com/kristianfreeman/cloudflare-retrieval-augmented-generation-example)
 - 🛝 [Cloudflare Multi-modal Playground](https://multi-modal.ai.cloudflare.com/)
-- 🛝 [OpenAI Playground](https://platform.openai.com/playground/chat?models=gpt-4o)
+- 🛝 [Toolhouse Playground (click link on sidebar)](https://app.toolhouse.ai)
 
 ## Resources
 
 - 📚 [Docs - Workers AI](https://developers.cloudflare.com/workers-ai)
+- 📚 [Toolhouse - Docs](https://docs.toolhouse.ai/toolhouse)
 - 💻 [Cloudflare Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
 - 📚 [Realtime API Guide](https://platform.openai.com/docs/guides/realtime)
 - 📕 [Prompting Guide](https://www.promptingguide.ai/)
-- ✍️ [Sign up to demo TODO](TODO)
+- ✍️ [Sign up to demo](https://docs.google.com/forms/d/e/1FAIpQLSf3T0RjD6gY-juoei6nED8fJvyQNtFdpTMMlK5j3WdsN4fckg/viewform)
 
 ![qr code](qr.gif "This page")
 
