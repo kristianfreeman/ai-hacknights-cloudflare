@@ -2,8 +2,9 @@
 
 Welcome to Cloudflare and Toolhouse AI's hackathon!
 
-Wifi: Cloudflare Guest
-Password: #savetheinternet
+Wifi: `Cloudflare Guest`
+
+Password: `#savetheinternet`
 
 The focus of this hackathon is building AI apps. It can be with Cloudflare, Toolhouse, or any other AI provider.
 
@@ -19,8 +20,9 @@ We know this is a relatively short time to hack, and your demos don't need to be
 ```
 
 ## Project Tracks
-Ideally your project matches one of the following projec tracks.
-It's totally optional, you can just hack on whatever you want:
+
+Ideally your project matches one of the following project tracks. It's totally optional, you can just hack on whatever you want:
+
 - Best Use of Toolhouse.ai platform
 - Best Use of Cloudflare services
 - Most likely to be a business
