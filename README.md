@@ -19,6 +19,8 @@ We know this is a relatively short time to hack, and your demos don't need to be
 8:30 PM - Demos & presentations to pick winners
 ```
 
+[Ready to demo? Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSf3T0RjD6gY-juoei6nED8fJvyQNtFdpTMMlK5j3WdsN4fckg/viewform)
+
 ## Project Tracks
 
 Ideally your project matches one of the following project tracks. It's totally optional, you can just hack on whatever you want:
@@ -41,7 +43,6 @@ Ideally your project matches one of the following project tracks. It's totally o
 - 💻 [Cloudflare Hackathon Starter Kit](https://github.com/craigsdennis/hackathon-helper-workers-ai)
 - 📚 [Realtime API Guide](https://platform.openai.com/docs/guides/realtime)
 - 📕 [Prompting Guide](https://www.promptingguide.ai/)
-- ✍️ [Sign up to demo](https://docs.google.com/forms/d/e/1FAIpQLSf3T0RjD6gY-juoei6nED8fJvyQNtFdpTMMlK5j3WdsN4fckg/viewform)
 
 Scan this QR code to see this page in your browser:
 
